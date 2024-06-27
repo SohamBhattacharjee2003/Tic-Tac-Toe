@@ -35,13 +35,6 @@ Check out the live demo of the Tic Tac Toe game [here](https://tictactoebysohamb
 
 ## Usage
 
-### Single Player Mode
-
-1. Click the "Single Player" button to start a new game against the AI.
-2. You will play as "O" and the AI will play as "X".
-3. Take turns clicking on the boxes to place your mark.
-4. The game will display a message indicating the winner or if the game is a draw.
-
 ### Multiplayer Mode
 
 1. Click the "Multiplayer" button to start a new game against another player.
