@@ -2,6 +2,8 @@
 
 A simple, responsive Tic Tac Toe game implemented using HTML, CSS, and JavaScript. The game supports both single-player and multiplayer modes.
 
+![Tic Tac Toe Screenshot](file:///Users/sohambhattacharjee/Desktop/Screenshot%202024-06-27%20at%209.13.23%E2%80%AFPM.png)
+
 ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&style=flat)
 ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&style=flat)
@@ -22,7 +24,7 @@ Check out the live demo of the Tic Tac Toe game [here](#).
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/your-username/tic-tac-toe.git
+    git clone https://github.com/SohamBhattacharjee2003/tic-tac-toe.git
     ```
 
 2. Navigate to the project directory:
